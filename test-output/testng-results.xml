@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8332" started-at="2022-07-06T08:42:41Z" finished-at="2022-07-06T08:42:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8332" started-at="2022-07-06T08:42:41Z" finished-at="2022-07-06T08:42:49Z">
+      <class name="industrial.RestAsured_Ex">
+        <test-method status="PASS" signature="deleteMethod()[pri:0, instance:industrial.RestAsured_Ex@7d9d1a19]" name="deleteMethod" duration-ms="2842" started-at="2022-07-06T14:12:41Z" finished-at="2022-07-06T14:12:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMethod -->
+        <test-method status="PASS" signature="getMethod()[pri:0, instance:industrial.RestAsured_Ex@7d9d1a19]" name="getMethod" duration-ms="1410" started-at="2022-07-06T14:12:44Z" finished-at="2022-07-06T14:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+        <test-method status="PASS" signature="patchMethod()[pri:0, instance:industrial.RestAsured_Ex@7d9d1a19]" name="patchMethod" duration-ms="1200" started-at="2022-07-06T14:12:45Z" finished-at="2022-07-06T14:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchMethod -->
+        <test-method status="PASS" signature="postMethod()[pri:0, instance:industrial.RestAsured_Ex@7d9d1a19]" name="postMethod" duration-ms="1523" started-at="2022-07-06T14:12:46Z" finished-at="2022-07-06T14:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+        <test-method status="PASS" signature="putMethod()[pri:0, instance:industrial.RestAsured_Ex@7d9d1a19]" name="putMethod" duration-ms="1328" started-at="2022-07-06T14:12:48Z" finished-at="2022-07-06T14:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putMethod -->
+      </class> <!-- industrial.RestAsured_Ex -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
